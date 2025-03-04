@@ -1,0 +1,7 @@
+*.pyc
+__pycache__
+outputs/
+pickle/
+runs/
+runs_new/
+slurm_outputs/
